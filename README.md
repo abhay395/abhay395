@@ -1,6 +1,6 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhay+Prajapati;Backend+Developer+%7C+DSA+Lover+%7C+MERN+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhay+Prajapati;Backend+Developer" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL BADGES -->
