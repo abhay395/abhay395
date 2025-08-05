@@ -15,7 +15,7 @@ Hi there! 👋 I'm Abhay Prajapati
 
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay395&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay395&layout=compact)](https://github.com/abhay395)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Abhay-orange?style=flat&logo=LeetCode)](https://leetcode.com/abhayparjapati78/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/abhayparjapati78?ext=contest)
 
 
 🌟 [Trendora](https://github.com/abhay395/Trendora) — Full-stack E-commerce app  
