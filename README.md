@@ -87,9 +87,7 @@
 ---
 
 ### 📌 Coming Soon
-- 📘 Tech Blogs on backend topics  
-- 📜 Backend Certifications showcase  
-- 🧑‍🏫 Mini portfolio website
+- 📘 Tech Blogs on backend topics    
 
 ---
 
