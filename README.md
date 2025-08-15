@@ -54,7 +54,7 @@
 
 ## 🚀 Projects
 - 🌟 [**Trendora**](https://github.com/abhay395/Trendora) – E-commerce web app  
-- 🧠 [**DSA-JS**](https://github.com/abhay395/dsa-js) – 50+ JavaScript DSA problems solved  
+- 🧠 [**DSA-JS**](https://github.com/abhay395/DSA_WITH_JS) – 50+ JavaScript DSA problems solved
 - 📝 **Blog App** *(Coming Soon)* – MERN blogging platform  
 
 ---
