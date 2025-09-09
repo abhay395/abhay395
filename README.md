@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
 <!-- INTRO -->
 <h1 align="center">Hey 👋, I'm Abhay Prajapati</h1>
 <h3 align="center">Backend Developer | Problem Solver | Tech Explorer</h3>
@@ -9,27 +13,29 @@
 ---
 
 ## 🌟 About Me
-- 🛠 Currently working on **[Trendora](https://github.com/abhay395/Trendora)** – Full-stack E-commerce platform  
-- 🚀 Focusing on backend dev with **Node.js**, **Express.js**, **MongoDB**  
-- 📚 Diving deep into **MongoDB** & **System Design**  
-- 🧩 Solving **DSA** problems in JavaScript  
-- 🎯 Goal: Become a **top-notch backend engineer**  
-- 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/abhay-parjapati-315044250/) | [Email](mailto:abhayparja90@gmail.com)  
+
+- 🛠 Currently working on **[Trendora](https://github.com/abhay395/Trendora)** – Full-stack E-commerce platform
+- 🚀 Focusing on backend dev with **Node.js**, **Express.js**, **MongoDB**
+- 📚 Diving deep into **MongoDB** & **System Design**
+- 🧩 Solving **DSA** problems in JavaScript
+- 🎯 Goal: Become a **top-notch backend engineer**
+- 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/abhay-parjapati-315044250/) | [Email](mailto:abhayparja90@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category         | Technologies |
-|------------------|-------------|
-| **Languages**    | JavaScript, HTML, CSS |
-| **Backend**      | Node.js, Express.js, MongoDB |
-| **Frontend**     | React (Basic), TailwindCSS |
-| **Tools**        | Git, Postman, VS Code |
+| Category      | Technologies                 |
+| ------------- | ---------------------------- |
+| **Languages** | JavaScript, HTML, CSS        |
+| **Backend**   | Node.js, Express.js, MongoDB |
+| **Frontend**  | React (Basic), TailwindCSS   |
+| **Tools**     | Git, Postman, VS Code        |
 
 ---
 
 ## ⚡ Tools I Love
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,tailwind,postman,git,vscode" />
 </p>
@@ -37,6 +43,7 @@
 ---
 
 ## 📈 My GitHub & LeetCode Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhay395&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay395&layout=compact&theme=tokyonight" height="180" />
@@ -53,27 +60,25 @@
 ---
 
 ## 🚀 Projects
-- 🌟 [**Trendora**](https://github.com/abhay395/Trendora) – E-commerce web app  
+
+- 🌟 [**Trendora**](https://github.com/abhay395/Trendora) – E-commerce web app
 - 🧠 [**DSA-JS**](https://github.com/abhay395/DSA_WITH_JS) – 100+ JavaScript DSA problems solved
-- 📝 **Blog App** *(Coming Soon)* – MERN blogging platform  
+- 📝 **Blog App** _(Coming Soon)_ – MERN blogging platform
 
 ---
 
 ## 💡 Quote
-> *"Great code is like poetry – simple, elegant, and powerful."*
+
+> _"Great code is like poetry – simple, elegant, and powerful."_
 
 ---
 
 ## 🤝 Let’s Collaborate
+
 I’m always open to collaborating on **backend projects**, **open-source contributions**, or **tech discussions**.  
 Drop me a message on [LinkedIn](https://linkedin.com/in/abhay-parjapati-315044250/) or [Email](mailto:abhayparja90@gmail.com).
 
----
-
+<!-- Wavy Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhay395/abhay395/main/wave.svg" width="100%"/>
-</p>
-
-<p align="center">
-  Made with ❤️ by Abhay
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
