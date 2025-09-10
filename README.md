@@ -62,8 +62,8 @@
 ## 🚀 Projects
 
 - 🌟 [**Trendora**](https://github.com/abhay395/Trendora) – E-commerce web app
+- 📝 [**MYBLOG**](https://my-bloge.netlify.app/) – MERN blogging platform
 - 🧠 [**DSA-JS**](https://github.com/abhay395/DSA_WITH_JS) – 100+ JavaScript DSA problems solved
-- 📝 [**Blog App**](https://my-bloge.netlify.app/) – MERN blogging platform
 
 ---
 
