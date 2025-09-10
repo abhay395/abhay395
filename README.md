@@ -63,7 +63,7 @@
 
 - 🌟 [**Trendora**](https://github.com/abhay395/Trendora) – E-commerce web app
 - 🧠 [**DSA-JS**](https://github.com/abhay395/DSA_WITH_JS) – 100+ JavaScript DSA problems solved
-- 📝 **Blog App** _(Coming Soon)_ – MERN blogging platform
+- 📝 [**Blog App**](https://my-bloge.netlify.app/) – MERN blogging platform
 
 ---
 
