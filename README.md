@@ -44,15 +44,14 @@
 
 ## 📈 My GitHub & LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay395&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay395&layout=compact&theme=tokyonight" height="180" />
-</p>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhay395&theme=codeSTACKr&hide_border=false&include_all_commits=true" alt=""><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=abhay395&theme=codeSTACKr&hide_border=false" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay395&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
+</div>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhayparjapati78?ext=contest&theme=dark" height="200" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhay395&theme=tokyonight&hide_border=true"/>
 </p>
