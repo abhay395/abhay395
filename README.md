@@ -52,9 +52,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhayparjapati78?ext=contest&theme=dark" height="200" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhay395&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
