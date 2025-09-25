@@ -52,7 +52,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhayparjapati78?ext=contest&theme=dark" height="200" />
 </p>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay395&theme=github_dark" alt="streak graph"  />
+</div>
 ---
 
 ## 🚀 Projects
