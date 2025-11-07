@@ -29,7 +29,7 @@
 | ------------- | ---------------------------- |
 | **Languages** | JavaScript, HTML, CSS        |
 | **Backend**   | Node.js, Express.js, MongoDB |
-| **Frontend**  | React (Basic), TailwindCSS   |
+| **Frontend**  | React (Basic), TailwindCSS,Nestjs   |
 | **Tools**     | Git, Postman, VS Code        |
 
 ---
