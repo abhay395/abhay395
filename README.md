@@ -23,7 +23,7 @@
 ## 🌐 Portfolio
 
 🔗 **Portfolio Website**  
-https://abhay-portfolio-azure.vercel.app/
+https://abhay-portfolio.abhayparja90.workers.dev/
 
 ---
 
