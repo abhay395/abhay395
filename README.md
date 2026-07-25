@@ -9,10 +9,10 @@
   <a href="https://github.com/abhay395">
     <img src="https://komarev.com/ghpvc/?username=abhay395&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   </a>
-  <a href="https://linkedin.com/in/abhay-prajapati">
+  <a href="https://linkedin.com/in/abhay-prajapati-315044250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/abhay-prajapati">
+  <a href="https://leetcode.com/abhayparjapati78">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
