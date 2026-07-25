@@ -102,11 +102,24 @@ I am a backend-focused **Software Engineer** specializing in the **MERN stack**,
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay395&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Abhay's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay395&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Abhay's Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhay395&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Abhay's GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhay395&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Abhay's Top Languages"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhay395&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhay's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=abhay395&theme=tokyonight&hide_border=true&background=0D1117" height="175" alt="Abhay's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay395&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Abhay's Activity Graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay395/abhay395/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay395/abhay395/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhay395/abhay395/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
