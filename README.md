@@ -138,7 +138,7 @@ Feel free to reach out if you want to talk backend architecture, collaborate on 
   <a href="https://github.com/abhay395" target="_blank">
     <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://abhay-portfolio.abhayparja90.workers.dev/" target="_blank">
+  <a href="https://abhay-prajapati-portfolio2-0.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff7139?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
